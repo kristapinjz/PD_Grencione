@@ -27,4 +27,4 @@
 #13 Škutāne Ieva
 
 #14 Zīle Kristaps 
-
+print(cos(radians(60)+fmod(15,2)))
